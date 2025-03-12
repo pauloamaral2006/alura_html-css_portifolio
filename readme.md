@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
 </div>
 
-# 🧑‍🏫 Instrutores
+# 🧑‍🏫 Instrutor(es)
 
 | [<img loading="lazy" src="https://media.licdn.com/dms/image/v2/D4E03AQFodSTnO1qe9w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1727180159904?e=1747267200&v=beta&t=zuOsQ4binOw2Ng7fSvQZY65evC1NZ3wy3vEi15vDos8" width=115><br><sub>Guilherme Lima</sub>](https://www.linkedin.com/in/guilherme-lima-458925178/) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/54322854?v=4" width=115><br><sub>Rafaella Ballerini</sub>](https://github.com/rafaballerini) |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
