@@ -4,9 +4,15 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Portfolio</title>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="./styles/style.css" />
   </head>
   <body>
+    <header class="cabecalho">
+      <nav class="cabecalho_menu">
+        <a class="cabecalho_menu_link" href="index.html">Home</a>
+        <a class="cabecalho_menu_link" href="about.html">Sobre</a>
+      </nav>
+    </header>
     <main class="apresentacao">
       <section class="apresentacao__conteudo">
         <h1 class="apresentacao__conteudo__titulo">
@@ -21,6 +27,7 @@
           prática boas ideias. Vamos conversar?
         </p>
         <div class="apresentacao__links">
+          <h2 class="apresentacao__links_subtitulo">Acesse minhas redes:</h2>
           <a
             class="apresentacao__links__link"
             href="https://www.instagram.com/pauloamaral2006"
@@ -29,11 +36,30 @@
           <a
             class="apresentacao__links__link"
             href="https://github.com/pauloamaral2006"
-            >GitHub</a
+          >
+            <img src="./assets/github.png" />
+            GitHub</a
+          >
+          <a
+            class="apresentacao__links__link"
+            href="https://www.linkedin.com/in/pauloamaral2006/"
+          >
+            <img src="./assets/linkedin.png" />
+            Linkedin</a
+          >
+          <a
+            class="apresentacao__links__link"
+            href="https://www.instagram.com/pauloamaral2006"
+          >
+            <img src="./assets/twitch.png" />
+            Twith</a
           >
         </div>
       </section>
-      <img src="imagem.png" />
+      <img src="./assets/imagem.png" />
     </main>
+    <footer class="rodape">
+      <p>Desenvolvido por Paulo Amaral.</p>
+    </footer>
   </body>
 </html>

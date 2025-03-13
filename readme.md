@@ -11,10 +11,15 @@
 - Praticar estilizações com CSS
 - Entender a importância do HTML semântico e boas práticas de desenvolvimento
 - Aprender o que são classes CSS e sua importância
-- Conheçer o Flexbox e aplique técnicas para posicionar seus elementos de forma prática
+- Conhecer o Flexbox e aplique técnicas para posicionar seus elementos de forma prática
 - Saber como estilizar seus textos, fontes e ícones
 - Entender como posicionar os elementos de uma página com CSS
 - Descubrir como aplicar efeitos de estilização alterando cores, arredondamentos e importar fontes para seu projeto
+- Entender o dia a dia de um desenvolvedor Front-end de forma prática
+- Saber como criar um código HTML e CSS seguindo boas práticas de programação
+- Descubrir como utilizar variáveis CSS para manter seu código sustentável e limpo
+- Trabalhar com mais de uma página HTML no mesmo projeto
+- Conhecer as pseudo classes com exemplos reais e práticos
 
 ## 🖥️ Tecnologias
 
